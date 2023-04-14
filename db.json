@@ -1,0 +1,116 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Conhecendo a linguagem Go | Hipsters.Talks",
+      "descricao": "3 mil visualizações",
+      "url": "https://www.youtube.com/embed/y8FeZMv37WU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 2,
+      "titulo": "Desmistificando mobile - Linguagens e Frameworks",
+      "descricao": "1,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/fmu1LQvZhms",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 3,
+      "titulo": "Orientação a objetos com Roberta Arcoverde | #Hipster...",
+      "descricao": "30 mil visualizações",
+      "url": "https://www.youtube.com/embed/jpuJ1qrluoU",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 4,
+      "titulo": "Linguagens e ferramentas usadas em Ciência de Dados...",
+      "descricao": "2,5 mil visualizações",
+      "url": "https://www.youtube.com/embed/h83e1aAM5xQ",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 5,
+      "titulo": "Reencontrando a paixão por programar: Beatriz Ramerindo",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/CnB3eLTrkn4",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 6,
+      "titulo": "Híbridos: Flutter e React Native | Desmistificando..",
+      "descricao": "1,6 mil visualizações",
+      "url": "https://www.youtube.com/embed/vf9P_PycgRw",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 7,
+      "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
+      "descricao": "3,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "id": 8,
+      "titulo": "baNaNa | Memes do JavaScript #2",
+      "descricao": "1,2 mil visualizações",
+      "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
+      "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true"
+    },
+    {
+      "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+      "descricao": "1 mil visualizações",
+      "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 9
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 10
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 11
+    },
+    {
+      "titulo": "Educação coorporativa",
+      "descricao": "7 mil visualizações",
+      "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 12
+    },
+    {
+      "titulo": "Logs no Android: boas práticas para otimização e aplicação | #AluraMais",
+      "descricao": "2 mil visualizações",
+      "url": "https://www.youtube.com/embed/viRW15_qUZw",
+      "imagem": "https://purr.objects-us-east-1.dream.io/i/OoNx6.jpg",
+      "id": 13
+    },
+    {
+      "titulo": null,
+      "descricao": "9 mil visualizações",
+      "url": "https://www.youtube.com/embed/oUJkM6KY-RY",
+      "imagem": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMUExYUFBQXFxYYGRscGBkZGRwcGxsZGR4eHxwZGSIfISoiIiEnHhkbJDMkJystMDAwHiI2OzYvOiovMC0BCwsLDw4PHBERHC8nIigxMS8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLzEvLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAMIBAwMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAGAAMEBQcCAQj/xABFEAACAQIEBAMGAwcCAwYHAAABAhEAAwQSITEFBkFRImFxBxMygZGhQrHBFCNSYnLR8ILhM0OyJGNzkqLxFhclNFNUwv/EABoBAAMBAQEBAAAAAAAAAAAAAAIDBAEABQb/xAAsEQACAgEEAgIBAgYDAAAAAAAAAQIRAwQSITFBURMiMhSBM2GRscHRBSNx/9oADAMBAAIRAxEAPwDN+GYG5em3aSTcJl2gfB8YB7+IfWjDhGGs5VWAShgDJDDLHhYfIjU61AwHL9w4e7fw9o52LtmVoyWh8Wn4hJiACdfLSNyljnSbnvMjW8zOGJBOXrJG+8DyNC43ZNVGh8Kv2ka5hLiqqnNlyyHAufEuXuIA7CBUDF8rDD+8ZQCEuBQknVWBIIOxiIMVXcLxt4Yg4l8O5dyMou5iQsz5Zs3i8xpRLx3i2DLgpba2ZkjVZaPhImBrNCobegkkiRwLFFrRtvbUAkZQQCwKmZ267a+utaHgvdKgNsKqkCIgf4ayHhV+9iL5tWIEgsczGAF3Ytv2FXq8v4wZDcZQSQEBYeUDTSevXQGiVrsNM0V8ZbCZ8wy9xr+VQF4tZ94MzBWZRGYRoCdz0ncCh21cvQrXmb3YgErBgwYkaAChvFs73myEuVAZ/CVyDTofUVq5M3ts1F+JWx+IH01+neubrLetMU1kMFOxB261ScG4dauWkOcZzqQpmPIjpFOca4UttQ1rPnLCACTJ3",
+      "id": 14
+    },
+    {
+      "titulo": null,
+      "descricao": "4 mil visualizações",
+      "url": "https://www.youtube.com/embed/oUJkM6KY-RY",
+      "imagem": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxMUExYUFBQXFxYYGRscGBkZGRwcGxsZGR4eHxwZGSIfISoiIiEnHhkbJDMkJystMDAwHiI2OzYvOiovMC0BCwsLDw4PHBERHC8nIigxMS8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLzEvLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIAMIBAwMBIgACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAGAAMEBQcCAQj/xABFEAACAQIEBAMGAwcCAwYHAAABAhEAAwQSITEFBkFRImFxBxMygZGhQrHBFCNSYnLR8ILhM0OyJGNzkqLxFhclNFNUwv/EABoBAAMBAQEBAAAAAAAAAAAAAAIDBAEABQb/xAAsEQACAgEEAgIBAgYDAAAAAAAAAQIRAwQSITFBURMiMhSBM2GRscHRBSNx/9oADAMBAAIRAxEAPwDN+GYG5em3aSTcJl2gfB8YB7+IfWjDhGGs5VWAShgDJDDLHhYfIjU61AwHL9w4e7fw9o52LtmVoyWh8Wn4hJiACdfLSNyljnSbnvMjW8zOGJBOXrJG+8DyNC43ZNVGh8Kv2ka5hLiqqnNlyyHAufEuXuIA7CBUDF8rDD+8ZQCEuBQknVWBIIOxiIMVXcLxt4Yg4l8O5dyMou5iQsz5Zs3i8xpRLx3i2DLgpba2ZkjVZaPhImBrNCobegkkiRwLFFrRtvbUAkZQQCwKmZ267a+utaHgvdKgNsKqkCIgf4ayHhV+9iL5tWIEgsczGAF3Ytv2FXq8v4wZDcZQSQEBYeUDTSevXQGiVrsNM0V8ZbCZ8wy9xr+VQF4tZ94MzBWZRGYRoCdz0ncCh21cvQrXmb3YgErBgwYkaAChvFs73myEuVAZ/CVyDTofUVq5M3ts1F+JWx+IH01+neubrLetMU1kMFOxB261ScG4dauWkOcZzqQpmPIjpFOca4UttQ1rPnLCACTJ3",
+      "id": 15
+    },
+    {
+      "titulo": null,
+      "descricao": "8 mil visualizações",
+      "url": "https://www.youtube.com/embed/oUJkM6KY-RY",
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Bruce_Willis_by_Gage_Skidmore_3.jpg/800px-Bruce_Willis_by_Gage_Skidmore_3.jpg",
+      "id": 16
+    }
+  ]
+}
